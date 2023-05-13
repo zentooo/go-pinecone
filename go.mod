@@ -1,4 +1,4 @@
-module github.com/pinecone-io/go-pinecone
+module github.com/zentooo/go-pinecone
 
 go 1.13
 
